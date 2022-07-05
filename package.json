@@ -1,6 +1,6 @@
 {
-  "name": "vue-image-upload-resize",
-  "version": "2.3.0",
+  "name": "vue-image-multiple-upload-resize",
+  "version": "2.3.1",
   "description": "A simple Vue.js component for client-side image upload with resizing",
   "author": "Svale Fossåskaret <svale@3by5.no>",
   "scripts": {
@@ -57,5 +57,8 @@
   "bugs": {
     "url": "https://github.com/kartoteket/vue-image-upload-resize/issues"
   },
-  "homepage": "https://github.com/kartoteket/vue-image-upload-resize#readme"
+  "homepage": "https://github.com/kartoteket/vue-image-upload-resize#readme",
+  "directories": {
+    "test": "tests"
+  }
 }
