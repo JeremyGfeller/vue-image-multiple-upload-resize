@@ -11,6 +11,9 @@
     "build-wc": "vue-cli-service build --target wc --name vue-image-upload-resize src/components/ImageUploader.vue",
     "test": "vue-cli-service test:unit"
   },
+  "publishConfig": {
+    "@JeremyGfeller:registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "blueimp-canvas-to-blob": "^3.14.0",
     "vue": "^2.5.17"
